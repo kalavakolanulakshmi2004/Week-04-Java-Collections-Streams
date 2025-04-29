@@ -1,6 +1,5 @@
 # Week 4: Java Collections, Streams
-Overview\
-Week 4 introduced powerful Java features such as Generics, Collections Framework, Java I/O Streams, Exception Handling, Regex, and JUnit Testing.\
+This week mainly focused on Java features such as Generics, Collections Framework, Java I/O Streams, Exception Handling, Regex, and JUnit Testing.\
 These concepts are essential for writing clean, reusable, and testable Java code used in real-world development.\
 Topics Covered
 # Day 1: Java Generics
