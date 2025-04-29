@@ -1,0 +1,6 @@
+System started successfully.
+Error: Unable to connect to server.
+User login failed.
+ERROR: Disk not found.
+Update completed.
+Some other error occurred.
