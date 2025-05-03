@@ -1,3 +1,0 @@
-Name: a
-Age: 25
-Favorite Programming Language: c
